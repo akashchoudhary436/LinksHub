@@ -1,3 +1,4 @@
+//Imports necessary components
 import React from 'react'
 import { IData } from 'types'
 import { Backdrop } from 'components/Backdrop/Backdrop'
